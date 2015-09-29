@@ -1,4 +1,4 @@
-# Kapitel 2 Übung 1 ("Binomische Formel")
+# Kapitel 2 Übung 2 ("Binomische Formel")
 
 - Legen Sie ein neues Java-Projekt in Eclipse an
 - Erstellen Sie eine Klasse ```BinomischeFormel``` zur Berechnung der ersten binomischen Formel:
